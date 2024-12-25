@@ -16,9 +16,12 @@ This tutorial outlines the use of Microsoft Azure to create a Virtual Machine.
 - Azure subscription
 - Resource group
 
+
+  
  
+
 VIDEO DEMONSTRATION 
-https://youtu.be/CsxeVh9EelA(https://github.com/franklynvf)
+https://youtu.be/_D831yED26c(https://github.com/franklynvf)
 
 
 <The purpose of the virtual machine is to be used for osTicket
