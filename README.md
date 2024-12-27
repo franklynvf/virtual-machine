@@ -17,10 +17,7 @@ This tutorial outlines the use of Microsoft Azure to create a Virtual Machine.
 - Resource group
 
 
-  
- 
-
-VIDEO DEMONSTRATION 
+VIDEO DEMONSTRATION:
 https://youtu.be/_D831yED26c(https://github.com/franklynvf)
 
 
